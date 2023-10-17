@@ -1,0 +1,24 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.custom-mouse-position {
+  width: fit-content;
+  font-size: 1em;
+  background-color: rgba(250, 235, 215, 0.5);
+  border: 1px solid darkblue;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.scale-line {
+
+  border: 1px solid darkblue;
+  border-top: 0;
+  position: absolute;
+  bottom: 0;
+}
